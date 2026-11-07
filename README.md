@@ -14,12 +14,6 @@ Read EPUB, PDF, and comics on your Mac, and ask Claude about what you read.
 curl -fsSL https://raw.githubusercontent.com/zyuapp/books/main/install.sh | sh
 ```
 
-### 🎬 Cutline
-A video editor that Claude edits for you.
-```sh
-curl -fsSL https://raw.githubusercontent.com/zyuapp/cutline/main/install.sh | sh
-```
-
 ### 🎙️ Just Speak
 Talk instead of typing, in any app. Works offline.
 ```sh
